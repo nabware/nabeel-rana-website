@@ -5,5 +5,5 @@
 - [x] Add navbar
 - [x] Add landing section with photo
 - [x] Add About Me section with PDF resume
-- [ ] Add contact info
+- [x] Add contact info
 - [ ] Publish to internet
