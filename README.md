@@ -2,7 +2,7 @@
 
 ## Todo
 
-- [ ] Add navbar
+- [x] Add navbar
 - [ ] Add landing section with photo
 - [ ] Add About Me section with PDF resume
 - [ ] Add contact info
